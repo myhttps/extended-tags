@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:airs",
+    "#minecraft:air",
     "#minecraft:banners",
     "#minecraft:buttons",
     "#minecraft:ceiling_hanging_signs",
