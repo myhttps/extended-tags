@@ -4,10 +4,10 @@
       "text": "Minecraft 24w19a",
       "type": "text"
     },
-    "pack_format": 43,
+    "pack_format": 45,
     "supported_formats": {
-      "max_inclusive": 43,
-      "min_inclusive": 43
+      "max_inclusive": 45,
+      "min_inclusive": 45
     }
   }
 }
